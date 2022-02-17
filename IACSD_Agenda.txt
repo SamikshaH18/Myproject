@@ -1,0 +1,212 @@
+
+	Revision:
+		
+		DFD
+		two, three, n-Tier Architecture
+		frontend, Middle, backend
+		Technologies
+		Object Orientation
+		Tools, libraries, framework, Object Model
+		Spiral Model
+		problem with Waterfall
+		Use cases
+		Iterative and Incremental Development process
+		Roadmap about going with Software Development process
+
+	Todays Agenda:
+			Spiral Model ( Incremental and Iterative Development Cycle)
+			Agile
+			Agile Manifesto
+			Agile methodology
+
+			Scrum
+				Scrum Team
+				Scrum Master
+				User story
+				Product backlog
+				Sprint backlog
+				Scrum meeting
+			Cloud based tool:
+				Jira:
+
+
+Principles
+
+1. Our highest priority is to satisfy the customer
+			through early and continuous delivery
+			  e.g.
+	focus on user story not on use case
+
+	24 hours ----a simple web site with product list display
+	next 24 hours---- product details by clicking product from list
+	next 24 hours---- allow customer to select product and
+					          add to cart
+	mext 24 hours----shopping cart managment
+				add from cart
+				update item inside the cart maintained
+				remove item from cart
+				of valuable software. (Online shopping portal)
+
+
+2.Welcome changing requirements, even late in development. 
+  Agile processes harness change for the customer's competitive advantage.
+
+		Customer suggested facebook, gmail, yahoo authentication to onlineshopping web site
+		Team will implement Federated authentication (Single Sign On)
+		Integrate payment gateway for visa, master card   now Rupay
+
+3.Deliver working software frequently, 
+	from a couple of weeks to a couple of months, 
+	with a preference to the shorter timescale.
+	
+	36 Days project implementation of Online shopping portal	
+	define 4 days Sprint-------------plan, design, develop, test, deploy (demo)---product catalog
+	define 4 days Sprint-------------plan, design, develop, test, deploy (demo)---shopping Cart
+	define 4 days Sprint-------------plan, design, develop, test, deploy (demo)---authentication
+	define 4 days Sprint-------------plan, design, develop, test, deploy (demo)---orderprocessing
+	define 4 days Sprint-------------plan, design, develop, test, deploy (demo)---payment processinh
+	define 4 days Sprint-------------plan, design, develop, test, deploy (demo)---authorization
+	define 4 days Sprint-------------plan, design, develop, test, deploy (demo)---delivery
+	define 4 days Sprint-------------plan, design, develop, test, deploy (demo)---CRM
+	define 4 days Sprint-------------plan, design, develop, test, deploy (demo)---BI
+
+4.Business people and developers must work together daily throughout the project.
+	stakholder, owner of business, 
+	Team:
+		team leader, 
+		designer, 
+		developer (front end dev, core business Dev, Spring MVC, boot dev, database develoer)
+		Tester ( )
+		IT Operations
+
+5.	Build projects around motivated individuals.
+	Give them the environment and support they need,
+	and trust them to get the job done.
+		Customer------user story-----------------------
+		Team leader---enviornment, resources -----machines, guidlines,etc.
+		Developer---- using proper development toolsm,
+		Tester-------- tools
+		team---------- jira
+
+6. 	The most efficient and effective method of conveying information 
+		to and within a development team is face-to-face conversation.	
+	Everday shedule 10 minutes meeting---------------standup meeting-----iterative meeting
+	Every weekend  spring meeting--------------------incremental meeting-
+							 retrospection
+7.	Working software is the primary measure of progress.
+			Each time customer will be able to explore working software as delivarable
+			
+8.	Agile processes promote sustainable development.
+	The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+
+9.	Continuous attention to technical excellence and good design enhances agility.
+
+10.	Simplicity--the art of maximizing the amount of work not done--is essential.
+
+11.	The best architectures, requirements, and designs emerge from self-organizing teams.
+
+12.	At regular intervals,   ( Sprint) 
+	the team reflects 
+	on how to become more effective, 
+	then tunes and adjusts its behavior accordingly.
+
+_______________________________________________________________________________________________________________
+
+ Agile Implementation:
+
+	Using Waterfall model project fail......
+			rate of failure is high--------
+			80-20 Rule    //paretto principle
+
+	Using Agile project do not  fail.
+			
+	Agile does not fail, We do.
+
+		We fail to fully embrace the manifesto and its principles
+		We fail to transform our mindset aroung how work is done.
+		We fail to properly implment the tries and proven practices.
+		We fail to commit and preserve.
+
+
+	Success is possible.
+	Transformation takes time
+		Be consistent,
+		   persistent,
+		   intentional
+
+
+	seek help----- you will need it.
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+
+Scrum:
+	Scrum is a lightweight framework that helps people, teams and organizations 
+					      generate value through adaptive solutions for complex problems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
